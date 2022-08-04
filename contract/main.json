@@ -1,7 +1,7 @@
 {
     "name": "vitae3 - test",
     "description": "vitae3 - test",
-    "image": "https://raw.githubusercontent.com/DAOBuidler/vitae3-contract/main/metadata/images/1.png",
+    "image": "https://raw.githubusercontent.com/kasoqian/resume-medata/main/images/1.png",
     "external_link": "https://twitter.com/",
     "seller_fee_basis_points": 100,
     "fee_recipient": "0xA97F337c39cccE66adfeCB2BF99C1DdC54C2D722"
